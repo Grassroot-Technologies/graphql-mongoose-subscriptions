@@ -29,7 +29,7 @@
     "mongoose": "^5.10.9"
   },
   "peerDependencies": {
-    "graphql-subscriptions": "^1.0.0"
+    "graphql-subscriptions": "^2.0.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.12",
