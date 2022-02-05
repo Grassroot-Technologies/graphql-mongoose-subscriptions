@@ -6,9 +6,4 @@ Object.defineProperty(exports, "__esModule", {
 
 var _mongodbPubsub = require('./mongodb-pubsub');
 
-Object.defineProperty(exports, 'MongodbPubSub', {
-  enumerable: true,
-  get: function get() {
-    return _mongodbPubsub.MongodbPubSub;
-  }
-});
+exports.default = _mongodbPubsub.MongodbPubSub;

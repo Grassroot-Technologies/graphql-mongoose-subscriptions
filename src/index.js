@@ -1,1 +1,3 @@
-export { MongodbPubSub } from './mongodb-pubsub';
+import { MongodbPubSub } from './mongodb-pubsub';
+
+export default MongodbPubSub
